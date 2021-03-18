@@ -9,4 +9,4 @@ Build an interactive dashboard to explore the [Belly Button Biodiversity dataset
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 ## Timeline
-This project will be completed on or before March 17th, 2021 and will likely not have many updates going forward.
+This project will likely not have many updates going forward.
